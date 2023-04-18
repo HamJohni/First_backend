@@ -1,0 +1,7 @@
+1) npm init -y
+2) npm i express
+3) в скриптах изменяем 'test' на 'start': 'node index.js'
+4) В package добавляем новый модуль
+5) npm i -D nodemon
+6) npm i mongoose
+7) npm i express-fileupload
